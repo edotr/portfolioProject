@@ -1,4 +1,4 @@
 # Portfolio Project
-Udacity Project 
+Udacity Project, intended for educational purposes.
 
 Livesite: 

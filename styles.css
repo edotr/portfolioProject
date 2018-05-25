@@ -1,0 +1,32 @@
+body{
+  font-family:arial;
+}
+
+img {
+  width: 10%;
+}
+
+.info {
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: solid;
+  background-image: url("https://cdn.pixabay.com/photo/2017/06/13/13/51/white-2398946_960_720.jpg");
+}
+
+.end {
+  border-top: solid;
+  color: #000000;
+  text-align: center;
+}
+.about-1 {
+  font-family: arial;
+}
+.flex-container {
+  display: flex;
+  width: 100%;
+}

@@ -1,6 +1,8 @@
 body{
   font-family:arial;
-  background-color: #ffffe6;
+  #grad {
+  background: linear-gradient(to right, green , yellow);
+}
 }
 
 .container {

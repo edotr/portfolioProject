@@ -29,10 +29,11 @@ body{
     display: flex;
 }
 
-.end {
-  border-top: solid;
-  color: #000000;
-  text-align: center;
+.header-words {
+    text-align: right;
+    margin-top: -11em;
+    margin-left: auto;
+    padding-bottom: 4em;
 }
 
 .flex-container {

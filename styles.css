@@ -15,16 +15,16 @@ header {
 .logo{
   width:30%;
 } 
+
 .end {
   border-top: solid;
   color: #000000;
   text-align: center;
 }
-.about-1 {
-  font-family: arial;
-}
+
+
 .flex-container {
   display: flex;
   width: 100%;
- padding: 0 4px;
+  flex-direction: column;
 }

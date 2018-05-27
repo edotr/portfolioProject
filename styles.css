@@ -1,6 +1,6 @@
 body{
   font-family:arial;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNZeN2-cBHJGkeu5Y5o_km0yQJf01HbeF0hcJlFNTgU4b56tv");
+  background-color: #ffffe6;
 }
 
 .container {
@@ -16,9 +16,7 @@ header {
     display: flex;
     flex-wrap: wrap;
    flex-direction: column;
-    margin-left: auto;
-    margin-right: auto;
-    justify-content: center;
+    justify-content: left;
     width: 100%;
     margin-bottom: 30px;
     padding-bottom: 10px;
@@ -34,7 +32,6 @@ header {
   color: #000000;
   text-align: center;
 }
-
 
 .flex-container {
     display: flex;

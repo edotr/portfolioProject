@@ -10,9 +10,12 @@ header {
     margin-bottom: 30px;
     padding-bottom: 20px;
     border-bottom: solid;
-    background-image: url("https://cdn.pixabay.com/photo/2017/06/13/13/51/white-2398946_960_720.jpg");
+    <!-- background-image: -->
 }
 
+.logo{
+  width:30%;
+} 
 .end {
   border-top: solid;
   color: #000000;

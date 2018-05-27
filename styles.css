@@ -10,6 +10,9 @@ header {
     
 }
 
+img {
+  width: 100%;
+}
 
 .info {
   text-align: center;

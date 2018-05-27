@@ -24,15 +24,17 @@ header {
 
 
 .flex-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    display: flex;
+    flex-basis: row;
+    max-width: 1170px;
+    width: 100%;
+    border-bottom: 3px solid #7d97ad;
 }
 
-.Pitems{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-  margin: 10px;
+.Pitems {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33.33%;
+    margin: 10px;
 }

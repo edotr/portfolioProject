@@ -2,6 +2,15 @@ body{
   font-family:arial;
 }
 
+.container {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
 header {
     display: flex;
     flex-wrap: wrap;

@@ -1,5 +1,8 @@
 body{
   font-family:arial;
+   margin: 10px 5px;
+  background-color: rgb(243, 243, 243);
+  margin: 30px 20px;
 }
 
 .container {

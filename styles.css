@@ -13,31 +13,35 @@ body{
     margin-right: auto;    
 }
 
-.header-main {
-    flex-wrap: wrap;
-    width: 1100px;
-    margin-top: 1em;
-    margin-left: auto;
+header {
+    padding: 10px 5%;
 }
 
-.header-items {  
-  width: 100%;
-  border-bottom: 3px solid #660033;
-  margin-bottom: 40px;
+header .container {
+    display: flex;
+}
+
+.mainheader {
+    margin-left: auto;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: -0.8px
 }
 
 .logo {
-    max-width: 250px;
-    padding-top: 1em;
-    display: flex;
+    width: 60px;
+    height: auto;
 }
 
-.header-words {
-    display: flex;
-    text-align: right;
-    margin-top: -11em;
-    margin-left: auto;
-    padding-bottom: 4em;
+header:after {
+    content: "";
+    display: block;
+    width: 95%;
+    max-width: 1140px;
+    margin: 15px auto;
+    height: 4px;
+    background-color: #c5c5c5;
+    border-radius: 5px;
 }
 
 .flex-container {

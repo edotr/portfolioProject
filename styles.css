@@ -29,8 +29,8 @@ header .container {
 }
 
 .logo {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: auto;
 }
 
 header:after {

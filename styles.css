@@ -75,3 +75,38 @@ header:after {
     width: 100%;
 }
 
+/* !! Media */
+@media screen and (max-width: 700px) {
+    html {
+        font-size: 18px;
+    }
+    .logo img {
+        width: 70px;
+        height: auto;
+        padding-top: 10px;
+    }
+  .featured {
+        width: 45%;
+    }
+  
+  @media screen and (min-width: 650px) and (max-width: 775px) {
+      .logo {
+        width: 50%;
+        vertical-align: middle;
+        padding-bottom: 10px;
+        margin-bottom: 0.5em;
+    } 
+  }
+  
+  @media screen and (min-width: 1024px) {
+    html {
+        font-size: 20px;
+    }
+    .logo {
+        width: 75px;
+        height: auto;
+        padding-top: 15px;
+    }
+    .featured {
+        width: 30%
+    }

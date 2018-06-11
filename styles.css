@@ -76,15 +76,16 @@ header:after {
 }
 
 /* !! Media */
- @media only screen and (min-device-width : 320px) and (max-device-width : 568px){
+ @media screen and (min-device-width : 320px) and (max-device-width : 568px){
       html {
         font-size: 18px;
     }
-    .logo img {
-        width: 70px;
+    .logo {
+        width: 100%;
         height: auto;
         padding-top: 10px;
     }
+   
   .featured {
      width: 45%;
     flex-direction: column;
@@ -93,11 +94,6 @@ header:after {
     body {
         background-color: white;
     }
-      .logo {
-        width: 100%;
-        vertical-align: middle;
-        padding-bottom: 10px;
-        margin-bottom: 0.5em;
-    } 
+   
   }
   

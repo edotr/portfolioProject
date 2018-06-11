@@ -76,9 +76,7 @@ header:after {
 }
 
 /* !! Media */
- @media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px){
+ @media only screen and (min-device-width : 320px) and (max-device-width : 568px){
       html {
         font-size: 18px;
     }
@@ -91,8 +89,7 @@ and (max-device-width : 568px){
      width: 45%;
     flex-direction: column;
   }
-}
-    }
+  
     body {
         background-color: white;
     }
@@ -104,15 +101,3 @@ and (max-device-width : 568px){
     } 
   }
   
-  @media screen and (min-width: 1024px) {
-    html {
-        font-size: 20px;
-    }
-    .logo {
-        width: 100%;
-        height: auto;
-        padding-top: 15px;
-    }
-    .featured {
-        width: 30%
-    }

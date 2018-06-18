@@ -48,7 +48,7 @@ header:after {
 
 .Pitems {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     width: 40%;
     margin: 10px;

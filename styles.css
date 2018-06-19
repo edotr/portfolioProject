@@ -16,7 +16,7 @@ header .container {
     display: flex;
 }
 
-.mainheader {
+.main {
     margin-left: auto;
     text-align: right;
     text-transform: uppercase;

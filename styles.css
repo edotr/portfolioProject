@@ -16,6 +16,8 @@ body{
 
 header .container {
     display: flex;
+   display: flex;
+    border-bottom: 3px solid #990033;
 }
 
 .main {
@@ -32,13 +34,6 @@ header .container {
 
 header:after {
     content: "";
-    display: block;
-    width: 95%;
-    max-width: 1140px;
-    margin: 15px auto;
-    height: 4px;
-    background-color: #990033;
-    border-radius: 10px;
 }
 
 .flex-container {

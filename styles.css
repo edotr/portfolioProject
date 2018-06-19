@@ -71,88 +71,10 @@ header:after {
 }
 
 /* !! Media */
-/* !! Media */
-@media screen and (min-device-width : 320px) {
-      html {
-        font-size: 10px;}
-             
-  .flex-container {
-     width: 100%;
-    flex-direction: column;
-     align-items: center;
-   justify-content: center;
-  }
-
-  .Pitems{
-    width:70%;  
-  }
-
-.logo img{
-    width: 70px;
-    height: auto;
-    }
-      }
 
 
- @media screen and (min-device-width : 768px) {
-      html {
-        font-size: 20px;
-    }
-       
-  .flex-container {
-     width: 100%;
-    flex-direction: column;
-     align-items: center;
-   justify-content: center;
-  }
 
-  .Pitems{
-    width:70%;  
-  }
 
-  .logo img{
-    width: 70px;
-    height: auto;
-    }
-  }
   
 
-@media screen and (min-device-width:830px){
-     html {
-        font-size: 10px;
-    }
 
-  .flex-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-   justify-content: center;
-  }
-
-  .Pitems{
-    width:100%;
-  }
-
-.logo img{
-    width: 70px;
-    height: auto;
-    }
-  }
-
-@media screen and (min-width: 1200px) {
-    .logo img {
-        width: 180px;
-        height: auto;
-        padding-top: 15px;
-
-    }
-      .flex-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-   justify-content: center;
-  }
-
-  .Pitems{
-    width:100%;
-  }

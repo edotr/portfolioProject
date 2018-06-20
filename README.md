@@ -1,4 +1,4 @@
 # Portfolio Project
-Udacity Project, intended for educational purposes.
+Udacity Project, intended for educational purposes only.
 
-Livesite: https://edotr.github.io/portfolioProject/
+Website: https://edotr.github.io/portfolioProject/

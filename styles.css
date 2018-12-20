@@ -4,11 +4,9 @@ body{
 }
 
 .container {
-display: flex;
+	display: flex;
 	flex-direction: column;
-	margin: 2em;
 	color: #2d3c49;
-	max-width: 1000px;
 	font-weight: 200;
 }
 
@@ -34,7 +32,7 @@ display: flex;
 }
 
 .main-img{
-  width: 90%;
+  width: 100%;
   border-radius: 5px;
 }
 

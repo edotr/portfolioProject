@@ -10,9 +10,10 @@ body{
   padding: 1em 1em 1em 1em;
 }
 
-header .container {
+.container-container {
   display: flex;
-  flex-wrap: wrap;
+	height: 20%;
+	align-items: center;
   border-bottom: 3px solid #990033;
    background-color: grey;
 }

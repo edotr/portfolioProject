@@ -24,10 +24,13 @@ display: flex;
 	flex-direction: column;
 }
 
-
 .logo {
   width: 125px;
   height: auto;
+}
+
+.header-text {
+	text-align: right;
 }
 
 .main-img{

@@ -18,11 +18,11 @@ body{
    background-color: grey;
 }
 
-.main {
-  margin-left: auto;
-  text-align: right;
-  letter-spacing: -0.8px
+.container-main-content {
+	display: flex;
+	flex-direction: column;
 }
+
 
 .logo {
   width: 125px;

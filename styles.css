@@ -55,7 +55,7 @@ body{
   max-width: 300px;
   border-radius: 25px;
   background-color: #ded3d3;
-  border: 2px dotted #990033;
+  border: 2px groove #990033;
 }
 
 .featured-img {

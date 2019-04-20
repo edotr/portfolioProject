@@ -52,7 +52,7 @@ body{
 .featured-items {
   padding: 10px;
   margin: 10px 10px;
-  max-width: 300px;
+  max-width: 100px;
   border-radius: 25px;
   background-color: #ded3d3;
   border: 2px groove #990033;
@@ -60,7 +60,7 @@ body{
 
 .featured-img {
   width: 100%;
-  height: 200px;
+  height: 50px;
   border-radius:15px; 
 }
 

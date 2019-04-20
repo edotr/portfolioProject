@@ -32,7 +32,6 @@ body{
 }
 
 .main-img{
-  width: 80%;
   border-radius: 5px;
 }
 
@@ -45,7 +44,6 @@ body{
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   justify-content: center;
 }
 

@@ -33,6 +33,7 @@ body{
 
 .main-img{
   border-radius: 5px;
+  max-width: 100%;
 }
 
 .about{
@@ -62,7 +63,7 @@ body{
   border-radius:15px; 
 }
 
-/* Media
+/Media
 @media screen and (min-width: 300px){
 
-*/
+/

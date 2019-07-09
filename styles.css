@@ -4,10 +4,6 @@ body{
   margin: 0px 20px;
 }
 
-.container{
-display: flex;	
-}
-
 .container-header {
 	display: flex;
 	height: 20%;

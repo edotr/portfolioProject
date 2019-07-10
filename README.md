@@ -1,4 +1,3 @@
-# Build a Portfolio Site Project
-Udacity Project, intended for educational purposes only.
+# My Portfolio Site!
 
 Link to website: https://edotr.github.io/portfolioProject/

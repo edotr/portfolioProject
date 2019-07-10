@@ -4,6 +4,7 @@
 	align-items: center;
        justify-content: space-between;
 	background-color: white;
+	margin: 0px 0px;
 }
 
 
@@ -11,12 +12,6 @@ body{
   background-color: #4e2b4b;
   font-family: 'Istok Web', sans-serif;
   margin: 0px 20px;
-}
-
-
-.container-main-content {
-	display: flex;
-	flex-direction: column;
 }
 
 .logo {
@@ -27,6 +22,13 @@ body{
 .header-text {
 	text-align: right;
 }
+
+
+.container-main-content {
+	display: flex;
+	flex-direction: column;
+}
+
 
 .main-img{
   border-radius: 5px;

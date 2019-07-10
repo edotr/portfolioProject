@@ -1,4 +1,5 @@
 .container-header {
+	font-family: 'Istok Web', sans-serif;
 	display: flex;
 	height: 20%;
 	align-items: center;
@@ -47,16 +48,13 @@
   justify-content: center;
 }
 
-.feature-container{
-display: flex;
-}
 
-.featured-items {  
+.featured-items {
 padding: 10px;
-  margin: 10px 10px;
-  max-width: 100px;
-  border-radius: 25px;
-  background-color: #ded3d3;
+margin: 10px 10px;
+max-width: 100px;
+border-radius: 25px;
+background-color: #ded3d3;
 }
 
 .featured-img {

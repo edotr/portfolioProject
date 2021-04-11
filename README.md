@@ -1,3 +1,3 @@
-# My Portfolio Site!
+# My Portfolio
 
 Link to website: https://edotr.github.io/portfolioProject/
